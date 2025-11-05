@@ -1,13 +1,4 @@
-target/
-
-bin/
-
-*.log
-
-*.class
-
-.idea/
-
-.settings/
-
-*.iml
+__pycache__/
+*.pyc
+config.env
+venv/
